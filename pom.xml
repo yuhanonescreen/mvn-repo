@@ -1,10 +1,6 @@
 	<distributionManagement>
 	    <repository>
 	        <id>repo</id>
-	        <url>https://github.com/yzhangonescreen/mvn-repo/raw/master/repository</url>
+	        <url>https://raw.github.com/yuhanonescreen/mvn-repo/master/repository</url>
 	    </repository>
-	    <snapshotRepository>
-	        <id>snapshot-repo</id>
-	        <url>https://github.com/yzhangonescreen/mvn-repo/raw/master/snapshots</url>
-	    </snapshotRepository>
 	</distributionManagement>
