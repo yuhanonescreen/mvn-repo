@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	      
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.onescreen</groupId>
+	<artifactId>bixo</artifactId>
+	<name>Onescreen Bixo</name>
+	<licenses>
+		<license>
+			<name>The MIT License</name>
+			<url>http://www.opensource.org/licenses/mit-license.php</url>
+		</license>
+	</licenses>
+	<url>http://openbixo.org</url>
+	<description>OneScreen's build of Bixo jar. Bixo is an open source Java web mining toolkit built on top of Hadoop, Cascading, HttpClient and Tika.</description>
+<!--
+	<scm>
+		<connection>scm:git:git://github.com/bixo/bixo.git</connection>
+		<url>http://github.com/bixo/bixo</url>
+	</scm>
+-->
+	<packaging>jar</packaging>
+	<!-- Must be kept in sync with "version" value in build.properties -->
+	<version>1.0</version>
+	
+	<repositories>
+	</repositories>
+	
+	<dependencies>
+        
+	</dependencies>
+	
+	<dependencyManagement>
+	</dependencyManagement>
+	
+		
+</project>
